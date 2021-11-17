@@ -1,0 +1,28 @@
+body {
+  background-color: #00ae88;
+}
+
+h1 {
+  color: rgba(1, 34, 12, 0.815);
+  text-align: center;
+  font-size: 60px;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 30px;
+}
+
+.MyFaceImg {
+  height: 250px;
+  width: 250px;
+  border-radius: 125px;
+  border-style: double;
+}
+
+.CodeBlkImg {
+  height: 400px;
+  width: 400px;
+  float: right;
+}
