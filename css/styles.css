@@ -14,6 +14,15 @@ h2 {
   font-size: 30px;
 }
 
+#ProjectsBlock,
+#CompaniesBlock {
+  border: 3px solid black;
+  padding: 15px;
+  width: 200px;
+  background: rgb(165, 151, 105);
+  background-clip: border-box;
+}
+
 .MyFaceImg {
   height: 250px;
   width: 250px;
@@ -22,7 +31,7 @@ h2 {
 }
 
 .CodeBlkImg {
-  height: 400px;
-  width: 400px;
+  height: 600px;
+  width: 600px;
   float: right;
 }
